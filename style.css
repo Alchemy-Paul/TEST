@@ -1,0 +1,22 @@
+body, h1{
+	font-family: "microsoft New Tai lue", sans-serif;
+	color:;
+}
+h1{
+	text-align: center;
+}
+body, html{
+	height: 100%;
+}
+.container{
+	background-image: url(images/atlantis.jpg);
+	min-height: 100%;
+	background-position: center;
+	background-size: cover;
+}
+.bottom{
+	font-size: 100%;
+	font-family: "Imprint MT Shadow";
+	text-align:center;
+	padding-top: 20px;
+}
